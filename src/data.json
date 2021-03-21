@@ -1,0 +1,390 @@
+{
+    "movies": {
+        "id01": {
+            "title": "Iron Man",
+            "year": "2008",
+            "directedBy": "Jon Favreau",
+            "runTime": "126 min",
+            "img": "iron-man.jpg",
+            "desc": "2008's Iron Man tells the story of Tony Stark, a billionaire industrialist and genius inventor who is kidnapped and forced to build a devastating weapon. Instead, using his intelligence and ingenuity, Tony builds a high-tech suit of armor and escapes captivity. When he uncovers a nefarious plot with global implications, he dons his powerful armor and vows to protect the world as Iron Man."
+        },
+        "id02": {
+            "title": "The Incredible Hulk",
+            "year": "2008",
+            "directedBy": "Louis Leterrier",
+            "runTime": "112 min",
+            "img": "ihulk.jpg",
+            "desc": "In this new beginning, scientist Bruce Banner desperately hunts for a cure to the gamma radiation that poisoned his cells and unleashes the unbridled force of rage within him: The Hulk. Living in the shadows--cut off from a life he knew and the woman he loves, Betty Ross--Banner struggles to avoid the obsessive pursuit of his nemesis, General Thunderbolt Ross and the military machinery that seeks to capture him and brutally exploit his power. As all three grapple with the secrets that led to the Hulk's creation, they are confronted with a monstrous new adversary known as the Abomination, whose destructive strength exceeds even the Hulk's own. One scientist must make an agonizing final choice: accept a peaceful life as Bruce Banner or find heroism in the creature he holds inside--The Incredible Hulk."
+        },
+        "id03": {
+            "title": "Iron Man 2",
+            "year": "2010",
+            "directedBy": "Jon Favreau",
+            "runTime": "124 min",
+            "img": "iron-man-2.jpg",
+            "desc": "With the world now aware that he is Iron Man, billionaire inventor Tony Stark faces pressure from all sides to share his technology with the military. He is reluctant to divulge the secrets of his armored suit, fearing the information will fall into the wrong hands. With Pepper Potts and 'Rhodey' Rhodes by his side, Tony must forge new alliances and confront a powerful new enemy."
+        },
+        "id04": {
+            "title": "Thor",
+            "year": "2011",
+            "directedBy": "Kenneth Branagh",
+            "runTime": "115 min",
+            "img": "thor.jpg",
+            "desc": "As the son of Odin, king of the Norse gods, Thor will soon inherit the throne of Asgard from his aging father. However, on the day that he is to be crowned, Thor reacts with brutality when the gods' enemies, the Frost Giants, enter the palace in violation of their treaty. As punishment, Odin banishes Thor to Earth. While Loki, Thor's brother, plots mischief in Asgard, Thor, now stripped of his powers, faces his greatest threat."
+        },
+        "id05": {
+            "title": "Captain America: The First Avenger",
+            "year": "2011",
+            "directedBy": "Joe Johnston",
+            "runTime": "124 min",
+            "img": "camerica1.jpg",
+            "desc": "Marvel's 'Captain America: The First Avenger' focuses on the early days of the Marvel Universe when Steve Rogers volunteers to participate in an experimental program that turns him into the Super Soldier known as Captain America."
+        },
+        "id06": {
+            "title": "Avengers",
+            "year": "2012",
+            "directedBy": "Joss Whedon",
+            "runTime": "143 min",
+            "img": "a1.jpg",
+            "desc": "Marvel Studios presents in association with Paramount Pictures 'Marvel's The Avengers'--the super hero team up of a lifetime, featuring iconic Marvel super heroes Iron Man, the Incredible Hulk, Thor, Captain America, Hawkeye and Black Widow. When an unexpected enemy emerges that threatens global safety and security, Nick Fury, Director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins."
+        },
+        "id07": {
+            "title": "Iron Man 3",
+            "year": "2013",
+            "directedBy": "Shane Black",
+            "runTime": "130 min",
+            "img": "iron-man-3.jpg",
+            "desc": "Marvel's 'Iron Man 3' pits brash-but-brilliant industrialist Tony Stark/Iron Man against an enemy whose reach knows no bounds. When Stark finds his personal world destroyed at his enemy's hands, he embarks on a harrowing quest to find those responsible. This journey, at every turn, will test his mettle. With his back against the wall, Stark is left to survive by his own devices, relying on his ingenuity and instincts to protect those closest to him. As he fights his way back, Stark discovers the answer to the question that has secretly haunted him: does the man make the suit or does the suit make the man."
+        },
+        "id08": {
+            "title": "Thor: Dark World",
+            "year": "2013",
+            "directedBy": "Alan Taylor",
+            "runTime": "112 min",
+            "img": "thor2.jpeg",
+            "desc": "In the aftermath of Marvel's 'Thor' and 'Marvel's The Avengers', Thor fights to restore order across the cosmos...but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all."
+        },
+        "id09": {
+            "title": "Captain America: Winter Soldier",
+            "year": "2014",
+            "directedBy": "Anthony Russo, Joe Russo",
+            "runTime": "136 min",
+            "img": "camerica2.jpg",
+            "desc": "After the cataclysmic events in New York with The Avengers, Marvel's 'Captain America: The Winter Soldier', finds Steve Rogers, aka Captain America, living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy--the Winter Soldier."
+        },
+        "id10": {
+            "title": "Guardians of the Galaxy",
+            "year": "2014",
+            "directedBy": "James Gunn",
+            "runTime": "121 min",
+            "img": "gotg.jpg",
+            "desc": "An action-packed, epic space adventure, Marvel's 'Guardians of the Galaxy', expands the Marvel Cinematic Universe into the cosmos, where brash adventurer Peter Quill finds himself the object of an unrelenting bounty hunt after stealing a mysterious orb coveted by Ronan, a powerful villain with ambitions that threaten the entire universe. To evade the ever-persistent Ronan, Quill is forced into an uneasy truce with a quartet of disparate misfits--Rocket, a gun-toting raccoon; Groot, a tree-like humanoid; the deadly and enigmatic Gamora; and the revenge-driven Drax the Destroyer. But when Quill discovers the true power of the orb and the menace it poses to the cosmos, he must do his best to rally his ragtag rivals for a last, desperate stand--with the galaxy's fate in the balance."
+        },
+        "id11": {
+            "title": "Avengers: Age of Ultron",
+            "year": "2015",
+            "directedBy": "Joss Whedon",
+            "runTime": "141 min",
+            "img": "a2.jpg",
+            "desc": "Marvel Studios presents “Avengers: Age of Ultron”, the epic follow-up to the biggest Super Hero movie of all time. When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes, including Iron Man, Captain America, Thor, The Incredible Hulk, Black Widow and Hawkeye, are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to the Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure."
+        },
+        "id12": {
+            "title": "Ant-Man",
+            "year": "2015",
+            "directedBy": "Peyton Reed",
+            "runTime": "117 min",
+            "img": "antman.jpg",
+            "desc": "The next evolution of the Marvel Cinematic Universe brings a founding member of The Avengers to the big screen for the first time with Marvel Studios' 'Ant-Man'. Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world."
+        },
+        "id13": {
+            "title": "Captain America: Civil War",
+            "year": "2016",
+            "directedBy": "Anthony Russo, Joe Russo",
+            "runTime": "147 min",
+            "img": "camerica3.jpg",
+            "desc": "Marvel’s “Captain America: Civil War” finds Steve Rogers leading the newly formed team of Avengers in their continued efforts to safeguard humanity. But after another incident involving the Avengers results in collateral damage, political pressure mounts to install a system of accountability, headed by a governing body to oversee and direct the team. The new status quo fractures the Avengers, resulting in two camps—one led by Steve Rogers and his desire for the Avengers to remain free to defend humanity without government interference, and the other following Tony Stark’s surprising decision to support government oversight and accountability."
+        },
+        "id14": {
+            "title": "Doctor Strange",
+            "year": "2016",
+            "directedBy": "Scott Derrickson",
+            "runTime": "115 min",
+            "img": "ds.png",
+            "desc": "From Marvel Studios comes “Doctor Strange,” the story of world-famous neurosurgeon Dr. Stephen Strange whose life changes forever after a horrific car accident robs him of the use of his hands. When traditional medicine fails him, he is forced to look for healing, and hope, in an unlikely place—a mysterious enclave known as Kamar-Taj. He quickly learns that this is not just a center for healing but also the front line of a battle against unseen dark forces bent on destroying our reality. Before long Strange—armed with newly acquired magical powers—is forced to choose whether to return to his life of fortune and status or leave it all behind to defend the world as the most powerful sorcerer in existence."
+        },
+        "id15": {
+            "title": "Guardians of the Galaxy Vol. 2",
+            "year": "2017",
+            "directedBy": "James Gunn",
+            "runTime": "136 min",
+            "img": "gotg2.jpg",
+            "desc": "Set to the backdrop of ‘Awesome Mixtape #2,’ Marvel’s Guardians of the Galaxy Vol. 2 continues the team’s adventures as they traverse the outer reaches of the cosmos. The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill’s true parentage. Old foes become new allies and fan-favorite characters from the classic comics will come to our heroes’ aid as the Marvel cinematic universe continues to expand."
+        },
+        "id16": {
+            "title": "Spider-Man: Homecoming",
+            "year": "2017",
+            "directedBy": "Jon Watts",
+            "runTime": "133 min",
+            "img": "sm1.jpg",
+            "desc": "A young Peter Parker/Spider-Man (Tom Holland), who made his sensational debut in Captain America: Civil War, begins to navigate his newfound identity as the web-slinging super hero in Spider-Man: Homecoming. Thrilled by his experience with the Avengers, Peter returns home, where he lives with his Aunt May (Marisa Tomei), under the watchful eye of his new mentor Tony Stark (Robert Downey, Jr.). Peter tries to fall back into his normal daily routine – distracted by thoughts of proving himself to be more than just your friendly neighborhood Spider-Man – but when the Vulture (Michael Keaton) emerges as a new villain, everything that Peter holds most important will be threatened."
+        },
+        "id17": {
+            "title": "Thor: Ragnarok",
+            "year": "2017",
+            "directedBy": "Taika Waititi",
+            "runTime": "130 min",
+            "img": "thor3.jpg",
+            "desc": "Thor is imprisoned on the other side of the universe without his mighty hammer and finds himself in a race against time to get back to Asgard to stop Ragnarok—the destruction of his homeworld and the end of Asgardian civilization—at the hands of an all-powerful new threat, the ruthless Hela. But first he must survive a deadly gladiatorial contest that pits him against his former ally and fellow Avenger—the Incredible Hulk!"
+        },
+        "id18": {
+            "title": "Black Panther",
+            "year": "2018",
+            "directedBy": "Ryan Coogler",
+            "runTime": "134 min",
+            "img": "bp.jpg",
+            "desc": "Marvel Studios’ “Black Panther” follows T’Challa who, after the death of his father, the King of Wakanda, returns home to the isolated, technologically advanced African nation to succeed to the throne and take his rightful place as king. But when a powerful old enemy reappears, T’Challa’s mettle as king—and Black Panther—is tested when he is drawn into a formidable conflict that puts the fate of Wakanda and the entire world at risk. Faced with treachery and danger, the young king must rally his allies and release the full power of Black Panther to defeat his foes and secure the safety of his people and their way of life."
+        },
+        "id19": {
+            "title": "Avengers: Infinity War",
+            "year": "2018",
+            "directedBy": "Anthony Russo, Joe Russo",
+            "runTime": "149 min",
+            "img": "a3.jpg",
+            "desc": "An unprecedented cinematic journey ten years in the making and spanning the entire Marvel Cinematic Universe, Marvel Studios' 'Avengers: Infinity War' brings to the screen the ultimate, deadliest showdown of all time. As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain."
+        },
+        "id20": {
+            "title": "Ant-Man and The Wasp",
+            "year": "2018",
+            "directedBy": "Peyton Reed",
+            "runTime": "118 min",
+            "img": "antman2.jpg",
+            "desc": "From the Marvel Cinematic Universe comes a new chapter featuring heroes with the astonishing ability to shrink: “Ant-Man and The Wasp.” In the aftermath of “Captain America: Civil War,” Scott Lang (Paul Rudd) grapples with the consequences of his choices as both a Super Hero and a father. As he struggles to rebalance his home life with his responsibilities as Ant-Man, he’s confronted by Hope van Dyne (Evangeline Lilly) and Dr. Hank Pym (Michael Douglas) with an urgent new mission. Scott must once again put on the suit and learn to fight alongside The Wasp as the team works together to uncover secrets from their past."
+        },
+        "id21": {
+            "title": "Captain Marvel",
+            "year": "2019",
+            "directedBy": "Anna Boden, Ryan Fleck",
+            "runTime": "125 min",
+            "img": "cm.png",
+            "desc": "Set in the 1990s, Marvel Studios' 'Captain Marvel' is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe that follows the journey of Carol Danvers as she becomes one of the universe's most powerful heroes. While a galactic war between two alien races reaches Earth, Danvers finds herself and a small cadre of allies at the center of the maelstrom."
+        },
+        "id22": {
+            "title": "Avengers: Endgame",
+            "year": "2019",
+            "directedBy": "Anthony Russo, Joe Russo",
+            "runTime": "181 min",
+            "img": "a4.jpg",
+            "desc": "The grave course of events set in motion by Thanos that wiped out half the universe and fractured the Avengers ranks compels the remaining Avengers to take one final stand in Marvel Studios' grand conclusion to twenty-two films, 'Avengers: Endgame.'"
+        },
+        "id23": {
+            "title": "Spider-Man: Far From Home",
+            "year": "2019",
+            "directedBy": "Jon Watts",
+            "runTime": "129 min",
+            "img": "spiderman.jpg",
+            "desc": "Following the events of Avengers: Endgame, Spider-Man must step up to take on new threats in a world that has changed forever."
+        }
+    },
+    "comics": {
+        "id05": {
+            "title": "Marvel's Spider-Man: Velocity (2019) #4",
+            "year": "2019",
+            "writer": "Dennis 'Hopeless' Hallum",
+            "penciler": "Emilio Laiso",
+            "img": "smv.jpeg",
+            "desc": "IT’S A RACE AGAINST TIME IN THE FIRST ALL-NEW MARVEL GAMERVERSE STORY! SPIDER-MAN’s new high-speed Velocity suit is jammed at full speed! He’s moving so fast that life seems to stand still around him! But can Peter use this time to find a solution for his own plight and the mysterious villain terrorizing New York City…or will the madness of time standing still crush him?!"
+        },
+        "id06": {
+            "title": "Captain America (2018) #16",
+            "year": "2019",
+            "writer": "Ta-​Nehisi Coates",
+            "penciler": "Jason Masters",
+            "img": "ca.jpg",
+            "desc": "“THE LEGEND OF STEVE” CONTINUES! The killing of a cop sets off a powder keg in the New York streets—one that Steve Rogers and Misty Knight must fight to contain! But an old foe with a new face is at the heart of this situation! How will justice be served?"
+        },
+        "id03": {
+            "title": "Deadpool Kills the Marvel Universe (2011) #4",
+            "year": "2012",
+            "writer": "Cullen Bunn",
+            "penciler": "Kaare Andrews",
+            "img": "dp.jpg",
+            "desc": "- What if everthing you thought was funny about Deadpool...was actually just disturbing? - What if he decided to kill everyone and everything that makes up the Marvel Universe? - What if he actually pulled it off? Would that be FUN for you? - The Merc with a Mouth takes a turn for the twisted in a weekly horror comic like no other..."
+        },
+        "id02": {
+            "title": "Avengers Origins: Vision (2013) #1",
+            "year": "2011",
+            "writer": "Kyle Higgins, ALEC FRANCIS SIEGEL",
+            "penciler": "Marko Djurdjevic",
+            "img": "vision.jpg",
+            "desc": "Is he man or machine? Created by the evil Ultron, The Vision was meant to be a terrifying weapon of destruction. But when tasked with destroying The Avengers, he must decide whether to follow his programming...or defy his creator. Witness the origin of The Avengers' most mysterious member in this exciting one-shot! Written by Kyle Higgins & Alec Siegel with art by Stephane Perger."
+        },
+        "id07": {
+            "title": "Deadpool (2019) #1",
+            "year": "2019",
+            "writer": "Kelly Thompson",
+            "penciler": "Irene Strychalski, Chris Bachalo",
+            "img": "dp2.jpg",
+            "desc": "Deadpool’s newest mercenary job has him going after the King of Monsters, who has claimed a new kingdom for his monstrous subjects…on Staten Island! But you know what they say, when you come at the king, you better not miss! The Merc with a Mouth finds himself neck deep in political intrigue, monster law, and a monster hunter out for blood! It’s like The Crown but with even more swords and monsters! Can Deadpool’s smooth charisma and deft diplomacy allow him to keep his head, or will he be royally screwed?"
+        },
+        "id08": {
+            "title": "Tony Stark: Iron Man (2018) #18",
+            "year": "2019",
+            "writer": "Dan Slott, Christos Gage",
+            "penciler": "Paco Medina",
+            "img": "im.jpg",
+            "desc": "“THE ULTRON AGENDA” continues! Chapter 3: Inner Conflict! While Rhodey and friends fight the robot war topside...a literal war rages on INSIDE Tony Stark! It’s the Wasp and a remote piloted Nano Iron Man versus a shrunken Ultron/Pym inside Tony’s physical body!"
+        },
+        "id09": {
+            "title": "Immortal Hulk (2018) #27",
+            "year": "2019",
+            "writer": "Al Ewing",
+            "penciler": "Joe Bennett",
+            "img": "hulk.jpg",
+            "desc": "Some monsters are born from gamma... other monsters worship a different kind of green. In his war on the human world, the Immortal Hulk is taking the fight to its lords and masters - the Roxxon Corporation. But when you mess with THE MINOTAUR... you get the horns."
+        },
+        "id01": {
+            "title": "Classic X-Men (1986) #13",
+            "year": "1987",
+            "writer": "Chris Claremont",
+            "penciler": "Bob Layton, John Bolton",
+            "img": "xm.jpg",
+            "desc": "Encountering Eric the Red sneaking around the school, the X-Men preemptively strike only to get attacked from behind by Firelord!"
+        },
+        "id04": {
+            "title": "Avengers Vs. X-Men (2012) #1",
+            "year": "2012",
+            "writer": "Brian Michael Bendis",
+            "penciler": "John Romita",
+            "img": "axm.jpg",
+            "desc": "• It’s No Longer Coming—It’s Here! • Does The Return Of The Phoenix To Earth Signal The Rebirth Of The Mutant Species? That’s What The X-Men Believe! • Unfortunately, The Avengers Are Convinced That Its Coming Will Mean The End Of All Life On Earth! • The Stage Is Set For The Ultimate Marvel Showdown In This Oversized First Issue!"
+        },
+        "id10": {
+            "title": "Punisher Kill Krew (2019) #5",
+            "year": "2019",
+            "writer": "Gerry Duggan",
+            "penciler": "Juan Ferreyra",
+            "img": "pkk.jpg",
+            "desc": "THE FINAL KILL! The Krew’s mission of punishment has only one target left. The most deadly enemy yet has prepared for Frank, and won’t go down easily. Who will survive, and what will be left of them???"
+        }
+    },
+    "games": {
+        "id01": {
+            "title": "Marvel's Spider-Man",
+            "year": "2018",
+            "rating": "Teen",
+            "img": "sm.jpg",
+            "desc": "Sony Interactive Entertainment, Insomniac Games, and Marvel have teamed up to create a brand-new and authentic Spider-Man adventure. This isn’t the Spider-Man you’ve met or ever seen before. This is an experienced Peter Parker who’s more masterful at fighting big crime in New York City. At the same time, he’s struggling to balance his chaotic personal life and career while the fate of millions of New Yorkers rest upon his shoulders."
+        },
+        "id06": {
+            "title": "Marvel Ultimate Alliance 3",
+            "year": "2019",
+            "rating": "Teen",
+            "img": "mua3.jpg",
+            "desc": "Coming Summer 2019. The MARVEL ULTIMATE ALLIANCE series returns for the first time in 10 years—with a new action RPG—exclusively on the Nintendo Switch™ system! Assemble your ultimate team of Marvel Super Heroes from a huge cast including the Avengers, the Guardians of the Galaxy, the X-Men, and more! Team up with friends to prevent galactic devastation at the hands of the mad cosmic tyrant Thanos and his ruthless warmasters, The Black Order."
+        },
+        "id02": {
+            "title": "Marvel's Guardians of the Galaxy: The Telltale Series",
+            "year": "2018",
+            "rating": "Teen",
+            "img": "gotg.jpg",
+            "desc": "Marvel’s Guardians of the Galaxy: The Telltale Series delivers a brand new story of the universe's unlikeliest heroes, the rag-tag band of outlaws who go by the names Star-Lord, Gamora, Drax, Rocket, and Groot. In the wake of an epic battle, the Guardians discover an artifact of unspeakable power. Each of the Guardians has a reason to desire this relic, as does a ruthless enemy who is the last of her kind, and who will stop at nothing to tear it from their hands."
+        },
+        "id03": {
+            "title": "Marvel Battle Lines",
+            "year": "2018",
+            "rating": "Teen",
+            "img": "mbl.png",
+            "desc": "The Cosmic Cube has been shattered, plunging the Marvel Universe into chaos! Now, you must join forces with Super Heroes and Villains, including the Avengers, the Guardians of the Galaxy, Spider-Man, and more, to collect the shards and restore the universe. Collect over 100 of your favorite Marvel character playing cards including Captain America, Thor, Daredevil, Venom, Doctor Strange and Thanos. Available on iOS and Android."
+        },
+        "id07": {
+            "title": "LEGO® Marvel Collection Bundle",
+            "year": "2019",
+            "rating": "Everyone 10+",
+            "img": "lmcb.jpg",
+            "desc": "LEGO® Marvel Super Heroes, LEGO® Marvel Super Heroes 2, LEGO® Marvel Avengers all come together in this super-sized collection bundle!"
+        },
+        "id08": {
+            "title": "Marvel Puzzle Quest",
+            "year": "2019",
+            "rating": "Teen",
+            "img": "mpq.jpg",
+            "desc": "The best in match-3 puzzle gameplay meets Marvel's biggest Super Heroes and Super Villains in the most epic puzzle adventure game out on your phone, tablet and PC! Marvel Puzzle Quest combines your favorite Marvel characters with deep RPG leveling, player-vs-player tournaments, Alliances, and much more. It's time to unleash your inner Super Hero and wage war against your enemies."
+        },
+        "id04": {
+            "title": "Marvel Powers United VR",
+            "year": "2018",
+            "rating": "Teen",
+            "img": "mpuvr.png",
+            "desc": "Unleash your rage and smash foes in VR! Lock 'n load your favorite plasma cannons, or take to the skies with powerful photon blasts. Hulk, Rocket Raccoon, Captain Marvel, and a powerful roster of Marvel’s greatest heroes are ready for battle. Suit up, power up, and team up with friends to engage in immersive, explosive co-op fights from across the Marvel Universe. Be the hero and unleash your powers now!"
+        },
+        "id05": {
+            "title": "Marvel Pinball",
+            "year": "2018",
+            "rating": "Everyone",
+            "img": "mpinball.jpg",
+            "desc": "Whether it's the Avengers, the Guardians of the Galaxy, Ant-Man, or any of your other favorite Marvel heroes and villains, enjoy pinball action on Zen Studios' digital tables!"
+        }
+    },
+    "characters": {
+        "id01": {
+            "name": "Iron Man",
+            "powersAbilities": "Flight, AI, Armored Suit, Super Strength + Durability",
+            "img": "im.jpg",
+            "desc": "Inventor Tony Stark applies his genius for high-tech solutions to problems as Iron Man, the armored Avenger."
+        },
+        "id02": {
+            "name": "Captain America",
+            "powersAbilities": "Speed & Stamina, Skilled Fighter, Acrobat, Vibranium Shield",
+            "img": "ca.jpg",
+            "desc": "America’s World War II Super-Soldier continues his fight in the present as an Avenger and untiring sentinel of liberty."
+        },
+        "id03": {
+            "name": "Hulk",
+            "powersAbilities": "Superhuman Strength, Long Distance Jumping, Hulk Smash, Durability & Regeneration, Genius Intelligence",
+            "img": "hulk.jpg",
+            "desc": "Exposed to heavy doses of gamma radiation, scientist Bruce Banner transforms into the mean, green rage machine called the Hulk."
+        },
+        "id04": {
+            "name": "Thor",
+            "powersAbilities": "Summoning Mjolnir, Flight, God of Thunder, Stormbreaker & The Bifrost",
+            "img": "thor.jpg",
+            "desc": "Thor Odinson wields the power of the ancient Asgardians to fight evil throughout the Nine Realms and beyond."
+        },
+        "id05": {
+            "name": "Black Panther",
+            "powersAbilities": "Hand-To-Hand Combat, Bulletproof costume, Vibranium Claws, Energy Pulse",
+            "img": "bp.jpg",
+            "desc": "T’Challa is the king of the secretive and highly advanced African nation of Wakanda - as well as the powerful warrior known as the Black Panther."
+        },
+        "id06": {
+            "name": "Spider-Man",
+            "powersAbilities": "Agility, Awareness, Web Shooters, Pincers",
+            "img": "sm.jpg",
+            "desc": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles."
+        },
+        "id07": {
+            "name": "Black Widow",
+            "powersAbilities": "Master Fighter, Strength & Agility, Widow's Bite, Master Hacker",
+            "img": "bw.jpg",
+            "desc": "Despite super spy Natasha Romanoff’s checkered past, she’s become one of S.H.I.E.L.D.’s most deadly assassins and a frequent member of the Avengers."
+        },
+        "id08": {
+            "name": "Rocket Racoon",
+            "powersAbilities": "Expert Engineer, Skilled Marksman, Accomplished Pilot, Agility",
+            "img": "rr.png",
+            "desc": "Ain’t no thing like Rocket, ‘cept Rocket. He lives for the simple things, including collecting valuable bounty alongside his friend and partner, Groot. Quick to train a weapon on anyone who offends him, he’s far more formidable than he appears."
+        },
+        "id09": {
+            "name": "Star Lord",
+            "powersAbilities": "Half Celestial, Energy Manipulation, Skilled Thief, Accomplished Pilot, Combat",
+            "img": "sl.jpg",
+            "desc": "Leader of the Guardians of the Galaxy, Peter Quill, known as Star-Lord, brings a sassy sense of humor while protecting the universe from any and all threats."
+        },
+        "id10": {
+            "name": "Thanos",
+            "powersAbilities": "Enhanced Strenght, Master Tactician, Infinity Gauntlet",
+            "img": "thanos.jpg",
+            "desc": "Using the power of the Infinity Stones, Thanos believes he can ultimately save the universe by wiping out half of its population."
+        }
+    }
+}
