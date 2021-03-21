@@ -1,7 +1,7 @@
 # marvel
 
 # About project
-This is my first Vue app where you can see information about Marvel movies, comics, games and characters
+This is my own Vue app where you can see information about Marvel movies, comics, games and characters
 
 ## Project setup
 ```
